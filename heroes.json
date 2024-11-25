@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "903859ac-5546-49a3-b867-190d296c2fa1",
+      "name": "JORDALAU",
+      "description": "SA IAUS SSS",
+      "element": "wind"
+    },
+    {
+      "id": "0670f56d-bc20-4b66-ba0d-ccefe734f10b",
+      "name": "Хуябуса",
+      "description": "Ебанутый маг",
+      "element": "earth"
+    },
+    {
+      "id": "fefc9384-0eef-4e3e-b6bb-6aa17e531c06",
+      "name": "Damakas",
+      "description": "Демонолог",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
