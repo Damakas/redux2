@@ -7,22 +7,22 @@
       "element": "fire"
     },
     {
-      "id": "903859ac-5546-49a3-b867-190d296c2fa1",
-      "name": "JORDALAU",
-      "description": "SA IAUS SSS",
-      "element": "wind"
+      "id": "deab1904-d04a-4ada-a12d-9164a878d32e",
+      "name": "Murloc",
+      "description": "WaterMage",
+      "element": "water"
     },
     {
-      "id": "0670f56d-bc20-4b66-ba0d-ccefe734f10b",
-      "name": "Хуябуса",
-      "description": "Ебанутый маг",
+      "id": "b87d32e9-4744-4e42-ac0c-889b22fad290",
+      "name": "EarthMonk",
+      "description": "EarthQuake\n",
       "element": "earth"
     },
     {
-      "id": "fefc9384-0eef-4e3e-b6bb-6aa17e531c06",
-      "name": "Damakas",
-      "description": "Демонолог",
-      "element": "fire"
+      "id": "be33616a-b9e7-4b44-a25c-4f2d6584fb5b",
+      "name": "WindWalker",
+      "description": "WindMonk",
+      "element": "wind"
     }
   ],
   "filters": [
