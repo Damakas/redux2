@@ -46,8 +46,7 @@ const reducer = (state = initialState, action) => {
                 ...state,
                 activeFilter: action.payload,
             }
-        // Самая сложная часть - это показывать новые элементы по фильтрам
-        // при создании или удалении
+
         case 'HERO_CREATED':
             return {
                 ...state,
