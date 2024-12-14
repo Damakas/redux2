@@ -17,12 +17,6 @@
       "name": "EarthMonk",
       "description": "EarthQuake\n",
       "element": "earth"
-    },
-    {
-      "id": "be33616a-b9e7-4b44-a25c-4f2d6584fb5b",
-      "name": "WindWalker",
-      "description": "WindMonk",
-      "element": "wind"
     }
   ],
   "filters": [
