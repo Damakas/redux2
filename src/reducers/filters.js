@@ -2,7 +2,6 @@ const initialState = {
     filters: [],
     filtersLoadingStatus: 'idle',
     activeFilter: 'all',
-
 }
 
 const filters = (state = initialState, action) => {
